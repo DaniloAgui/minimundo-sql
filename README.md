@@ -24,9 +24,6 @@ Este repositório contém os seguintes arquivos:
 ├── excluir.sql → Script com DELETE (mínimo 3)
 └── README.md → Documento explicativo (este arquivo)
 
-yaml
-Copiar código
-
 ---
 
 ##  2. Como Executar os Scripts
