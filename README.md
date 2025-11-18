@@ -13,7 +13,7 @@ O objetivo é demonstrar:
 
 ---
 
-## 📌 1. Estrutura do Repositório
+##  1. Estrutura do Repositório
 
 Este repositório contém os seguintes arquivos:
 
@@ -29,7 +29,7 @@ Copiar código
 
 ---
 
-## 📌 2. Como Executar os Scripts
+##  2. Como Executar os Scripts
 
 Você pode rodar estes scripts em:
 
@@ -58,7 +58,7 @@ Scripts de exclusão (DELETE) usando corretamente o WHERE.
 
 ---
 
-## 📌 3. Requisitos Atendidos
+## 3. Requisitos Atendidos
 
 ✔ Script SQL com INSERTS para todas as tabelas  
 ✔ Script SQL com pelo menos 2 a 5 SELECTs usando:
@@ -74,7 +74,7 @@ Scripts de exclusão (DELETE) usando corretamente o WHERE.
 
 ---
 
-## 📌 4. Scripts Desenvolvidos
+##  4. Scripts Desenvolvidos
 
 ### 📄 **01_inserir.sql**
 Contém todos os inserts das tabelas:
@@ -110,14 +110,14 @@ Exemplos:
 
 ---
 
-## 📌 5. Banco de Dados Utilizado
+## 5. Banco de Dados Utilizado
 
 - **PostgreSQL**
 - Conexão criada via **DBeaver**
 
 ---
 
-## 📌 6. Autor
+##  6. Autor
 
 **Danilo Rodrigues de Aguiar**
 
